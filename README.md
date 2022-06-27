@@ -13,7 +13,7 @@ Abaixo tem minhas redes sociais. Da uma olhadinha. 😛
 </div> <br>
 
 <div style ="display: inline_block"> 
-<img align="center" alt="dan-html" height="120" width="90" src="https://user-images.githubusercontent.com/96490131/175796366-565723c5-3f0a-488f-9733-310d931b55de.png" 
+<img align="center" alt="dan-html" height="130" width="90" src="https://user-images.githubusercontent.com/96490131/175796366-565723c5-3f0a-488f-9733-310d931b55de.png" 
   </div> <br>
   <br>
   * Danilo Freitas ⚓
